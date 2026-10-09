@@ -1,6 +1,6 @@
 # OOP Calculator for Programming 1
 
-![Calculator]()
+![Calculator](https://github.com/tinyemptybottle/programmingportfolio/blob/main/images/Calc01.png)
 
 ## Overview
 [Write 2–3 sentences explaining what you are building
