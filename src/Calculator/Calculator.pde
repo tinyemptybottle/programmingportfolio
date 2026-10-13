@@ -61,6 +61,10 @@ void drawDisplay() {
   fill(#c2cbd1);
   textAlign(RIGHT);
   text(displayVal, width-15, 25);
+  if (displayVal.length()<12) {
+    textSize(12);
+  } else if (displayVal.length()>14)
+    textSize(10);
 }
 
 void mouseReleased() {
